@@ -49,3 +49,5 @@ plt.legend()
 plt.show()
 
 print(f"Test MSE Loss: {loss:.4f}")
+
+![Plotly Visualization: Simulated Regression](RNN.png)
