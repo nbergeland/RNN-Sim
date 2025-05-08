@@ -73,7 +73,7 @@ This workflow represents the end-to-end process of the time series forecasting s
 RNN-Sim demonstrates a complete implementation of time series forecasting using LSTM neural networks. The system follows a straightforward workflow of data generation, preprocessing, model building, training, evaluation, and visualization. The simplicity of the implementation makes it a good starting point for understanding how recurrent neural networks can be applied to time series prediction problems.
 
 ## Code Notebook:
-*Copy and Run This Code* 
+**Copy and Run This Code**
 
 ```
     import numpy as np
